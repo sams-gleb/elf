@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Options>
+  <meter>
+    <name>elf1</name>
+    <ip>10.10.10.10</ip>
+    <port>4001</port>
+    <meter_addr>1</meter_addr>
+    <consumer>undef</consumer>
+    <contract>undef</contract>
+    <address>undef</address>
+  </meter>
+  <meter>
+    <name>elf2</name>
+    <ip>10.10.10.11</ip>
+    <port>4002</port>
+    <meter_addr>1</meter_addr>
+    <consumer>undef</consumer>
+    <contract>undef</contract>
+    <address>undef</address>
+  </meter>
+</Options>
